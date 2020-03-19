@@ -1,17 +1,20 @@
 ---
 title: "Video Downloads for Bio 381"
 author: "Nick Gotelli"
-date: "3/12/2020"
+date: "Last Updated: 19 March 2020"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Introduction
+- [Bio 381 Resleeved [3:07]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/Resleeved.MOV)
 
 ## Lecture 15: Structured Programming II
-- [A. Code Snippets I](Videos/CodeSnippets.mp4)
-- [B. Code Snippets I](Videos/CodeSnippets2.mp4)
-- [C. Sourcing Files](Videos/SourcingFiles.mp4)
-- [D. Coding Functions](Videos/CodingFunctions.mp4)
-- [D. Assembling Program](Videos/AssembleProgram.mp4)
+- [A. Code Snippets I [13:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/A_CodeSnippets.mp4)
+- [B. Code Snippets II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/B_CodeSnippets2.mp4)
+- [C. Sourcing Files [17:05]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/C_SourcingFiles.mp4)
+- [D. Coding Functions [29:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/D_CodingFunctions.mp4)
+- [E. Assemble Program [18:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/E_AssembleProgram.mp4)
+
