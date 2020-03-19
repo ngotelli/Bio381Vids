@@ -9,4 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Under construction...
+## Lecture 15: Structured Programming II
+- [A. Code Snippets I](Videos/CodeSnippets.mp4)
+- [B. Code Snippets I](Videos/CodeSnippets2.mp4)
+- [C. Sourcing Files](Videos/SourcingFiles.mp4)
+- [D. Coding Functions](Videos/CodingFunctions.mp4)
+- [D. Assembling Program](Videos/AssembleProgram.mp4)
