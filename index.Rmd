@@ -1,7 +1,7 @@
 ---
 title: "Video Downloads for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 19 March 2020"
+date: "Last Updated: 22 March 2020"
 output: html_document
 ---
 
@@ -18,3 +18,13 @@ knitr::opts_chunk$set(echo = TRUE)
 - [D. Coding Functions [29:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/D_CodingFunctions.mp4)
 - [E. Assemble Program [18:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/E_AssembleProgram.mp4)
 
+## Lecture 16: Control Structures I
+
+- [A. Logical Operators [22:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/A.LogicalOperators.mp4)
+- [B. Set Operations [14:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/B.SetOperations.mp4)
+- [C. If Statements [19:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/C.IfStatements.mp4)
+- [D. ifelse Function [14:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/D.IfElseFunction.mp4)
+
+## Lecture 17: Control Structures II
+
+## Lecture 18: Control Structures III
