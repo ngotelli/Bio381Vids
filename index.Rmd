@@ -1,7 +1,7 @@
 ---
 title: "Video Downloads for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 22 March 2020"
+date: "Last Updated: 25 March 2020"
 output: html_document
 ---
 
@@ -11,20 +11,30 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction
 - [Bio 381 Resleeved [3:07]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/Resleeved.MOV)
 
-## Lecture 15: Structured Programming II
+## Lecture 15: Structured Programming II (19 March 2020)
 - [A. Code Snippets I [13:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/A_CodeSnippets.mp4)
 - [B. Code Snippets II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/B_CodeSnippets2.mp4)
 - [C. Sourcing Files [17:05]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/C_SourcingFiles.mp4)
 - [D. Coding Functions [29:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/D_CodingFunctions.mp4)
 - [E. Assemble Program [18:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/E_AssembleProgram.mp4)
 
-## Lecture 16: Control Structures I
+## Lecture 16: Control Structures I (24 March 2020)
 
 - [A. Logical Operators [22:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/A.LogicalOperators.mp4)
 - [B. Set Operations [14:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/B.SetOperations.mp4)
 - [C. If Statements [19:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/C.IfStatements.mp4)
 - [D. ifelse Function [14:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/D.IfElseFunction.mp4)
 
-## Lecture 17: Control Structures II
+## Lecture 17: Control Structures II (26 March 2020)
+- [A. Anatomy Of A For Loop [23:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/A_AnatomyOfForLoop.mp4)
+- [B. For Loop Tips [25:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/B_ForLoopTips.mp4)
+- [C. Random Walk I [18:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/C_RandomWalk.mp4)
 
-## Lecture 18: Control Structures III
+## Lecture 18: Control Structures III (31 March 2020)
+- [A. Random Walk II [19:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/A_RandomWalk2.mp4)
+- [B. Parameter Sweeping I  [25:23]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/B_ParamSweep1.mp4)
+- [C. Parameter Sweeping II  [32:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/C_ParamSweep2.mp4)
+
+## Lecture 19: Randomization Tests (2 April 2020)
+
+## Lecture 20: Batch Processing (7 April 2020)
