@@ -42,3 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [D. Run Analysis [9:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/D_RunAnalysis.mp4)
 
 ## Lecture 20: Batch Processing (7 April 2020)
+- [A. Batch Processing And Path Names [11:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/A_IntroAndPathNames.mp4)
+- [B. Create Random Files [26:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/B_CreateRandomFiles.mp4)
+- [C. Create Regression Function [22:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/C_CreateRegressionFunction.mp4)
+- [D. Modify Batch Files [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/D_ModifyBatchFiles.mp4)
