@@ -36,5 +36,9 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Parameter Sweeping II  [32:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/C_ParamSweep2.mp4)
 
 ## Lecture 19: Randomization Tests (2 April 2020)
+- [A. Introduction To Randomization Tests [17:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/A_IntroRandomizationTest.mp4)
+- [B. Toy Example [21:08]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/B_ToyExample.mp4)
+- [C. Functions For Randomization Test [37:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/C_FunctionsForRandomization.mp4)
+- [D. Run Analysis [9:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/D_RunAnalysis.mp4)
 
 ## Lecture 20: Batch Processing (7 April 2020)
