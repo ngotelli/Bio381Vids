@@ -89,3 +89,48 @@ qplot(x=my_vec,y=dgamma(my_vec,shape=5,scale=3),
       geom="line") # density functions for stats
 
 qplot(x=my_vec,y=my_fun(my_vec),geom="line") #user defined function
+
+# Themes and fonts --------------------------------------
+
+p1 <- ggplot(data=d,
+             mapping=aes(x=displ,y=cty)) +
+      geom_point()
+print(p1)
+
+p1 + theme_classic()
+p1 + theme_linedraw()
+p1 + theme_dark()
+p1 + theme_base()
+p1 + theme_void()
+p1 + theme_economist()
+p1 + theme_bw()
+p1 + theme_grey() # default theme for ggplot
+
+# Major theme modifications --------------------------------------
+p1 + theme_classic(base_size=9)
+p1 + theme_classic(base_family="serif")
+
+# defaults: theme_grey, base_size=16, base_family="Helvetica"
+
+# default font families (Mac): Times, Ariel, Monaco, Courier, Helvetica, serif, sans
+
+# use coordinate_flip to invert entire plot
+
+p2 <- ggplot(data=d,mapping=aes(x=fl, fill=fl)) +
+      geom_bar()
+print(p2)
+
+p2 + coord_flip()
+
+# Minor theme modifications --------------------------------------
+p1 <- ggplot(data=d,
+             mapping=aes(x=displ,y=cty)) +
+      geom_point(size=7,shape=21,
+                 color="black",fill="steelBlue") +
+      labs(title="My graph title here",
+           subtitle="An extended subtidal that will print below the main title",
+           x='My x axis label',
+           y='My y axis label') +
+           xlim(0,4) +
+           ylim(0,20)
+print(p1)
