@@ -46,3 +46,12 @@ knitr::opts_chunk$set(echo = TRUE)
 - [B. Create Random Files [26:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/B_CreateRandomFiles.mp4)
 - [C. Create Regression Function [22:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/C_CreateRegressionFunction.mp4)
 - [D. Modify Batch Files [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/D_ModifyBatchFiles.mp4)
+
+## Lecture 21: ggplot I (9 April 2020)
+- [A. Introduction To `ggplot` [20:35]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/A_IntroductionToggplot.mp4)
+- [B. Using `qplot` [23:53]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/B_qplot.mp4)
+- [C. Themes And Plots [22:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/C_ThemesAndPlots.mp4)
+
+## Lecture 22: ggplot II (14 April 2020)
+
+## Lecture 23: ggplot II (16 April 2020)
