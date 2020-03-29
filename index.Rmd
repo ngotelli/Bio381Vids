@@ -53,5 +53,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Themes And Plots [22:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/C_ThemesAndPlots.mp4)
 
 ## Lecture 22: ggplot II (14 April 2020)
+- [A. Set Up Multiple Plots [14:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/A_Intro.mp4)
+- [B. Multi-Panel Plots With `patchwork` [15:29]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/B_MultipanelPlots.mp4)
+- [C. Axis Orientation [6:25]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/C_AxisOrientation.mp4)
+- [D. Mapping Aesthetics I [22:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/D_MappingAesthetics1.mp4)
+- [E. Faceting [27:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/E_Faceting.mp4)
+- [F. Mapping Aesthetics II [12:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/F_MappingAsthetics2.mp4)
 
-## Lecture 23: ggplot II (16 April 2020)
+## Lecture 23: ggplot III (16 April 2020)
