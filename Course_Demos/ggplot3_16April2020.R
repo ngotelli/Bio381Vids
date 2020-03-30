@@ -85,4 +85,43 @@ p2 <- ggplot(d,aes(x=fl,y=hwy)) +
             color="gray60",size=2)
 print(p2)                    
                  
-                 
+ # Color --------------------------------------               
+# hue - wavelength of visible light
+# saturation - intensity, vibrance
+# lightness - black to white
+# red, blue, green 
+# named colors in R
+
+# Aesthetics
+# attractive colors
+# - large geoms (bars, boxplots), light, pale colors
+# - small geoms (points, lines), dark, vibrant colors
+# color palettes that are visible to color blind
+# color palettes that convert well to black and white
+
+# Information content
+# use colors to group similar treatments
+# neutral colors (black,grey,white) for control groups
+# symbolic colors (heat=red,cool=blue, photosynthesis/growth=green,oligotrophic=blue,infected=red)
+# dyes or stains, or even colors of organisms
+
+# discrete scales - distinct groups
+
+# continuous scales (as in a heat map)
+# monochromatic (different shades of one color)
+# 2-tone chromatic scale (from color x to color y)
+# 3-tone divergent scale (from color x through color y to color z)
+
+# consistent color scheme for manuscript
+# use consistent colors within and between your figures
+
+my_cols <- c('#ca0020','#f4a582','#92c5de','#0571b0')
+demoplot(my_cols,"map")
+demoplot(my_cols,"bar")
+demoplot(my_cols,"scatter")
+demoplot(my_cols,"spine")
+demoplot(my_cols,"heatmap")
+demoplot(my_cols,"perspective")
+
+my_r_colors <- c("red","brown","cyan","green")
+demoplot(my_r_colors,"pie")
