@@ -65,3 +65,68 @@ h1 <- ggplot(d_frame,aes(x=v1,fill=lab))
 h1 + geom_histogram(position="identity",
                     alpha=0.2,
                     color="black")
+# color customization in ggplots
+d <- mpg
+# discrete classification
+# scale_fill_manual() (histogram,boxplots,bars)
+# scale_color_manual() (lines,points)
+
+# boxplot with no color
+p_fil <- ggplot(d,aes(x=as.factor(cyl),y=cty))
+p_fil + geom_boxplot()
+
+# boxplot with default fill
+p_fil <- ggplot(d,aes(x=as.factor(cyl),y=cty,
+                      fill=as.factor(cyl)))
+p_fil + geom_boxplot()
+
+# create custom color palette
+my_cols <- c("red","brown","blue","orange")
+p_fil + geom_boxplot() + 
+  scale_fill_manual(values=my_cols)
+
+# scatterplot with no color
+p_col <- ggplot(d,aes(x=displ,y=cty)) +
+  geom_point(size=3)
+print(p_col)
+
+# scatterplot default ggplot colors
+p_col <- ggplot(d,aes(x=displ,
+                      y=cty,
+                      col=as.factor(cyl))) +
+  geom_point(size=3)
+print(p_col)
+ p_col
+ 
+ # scatterplot with custom colors
+ p_col + scale_color_manual(values=my_cols)
+
+ 
+ # continuous classification for color gradient
+ 
+ # default color gradient
+ p_grad <- ggplot(d,aes(x=displ,
+                        y=cty,
+                        col=hwy)) + 
+                    geom_point(size=3)
+print(p_grad) 
+
+# custom sequential gradient (2 colors)
+p_grad + scale_color_gradient(low="green",
+                              high="red")
+
+# custom diverging gradient (3 colors)
+mid <- median(d$hwy)
+p_grad + scale_color_gradient2(midpoint=mid,
+                               low="blue",
+                               mid="white",
+                               high="red")
+
+# custom diverging gradient (n colors)
+p_grad + scale_color_gradientn(colors=c("blue",
+                                        "green",
+                                        "yellow",
+                                        "purple",
+                                        "orange"))
+                                      
+                              
