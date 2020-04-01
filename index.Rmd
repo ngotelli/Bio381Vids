@@ -1,7 +1,7 @@
 ---
 title: "Video Downloads for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 25 March 2020"
+date: "Last Updated: 31 March 2020"
 output: html_document
 ---
 
@@ -61,3 +61,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [F. Mapping Aesthetics II [12:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/F_MappingAsthetics2.mp4)
 
 ## Lecture 25: ggplot III (16 April 2020)
+- [A. Bar Plots [30:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/A_BarPlots.mp4)
+- [B. Introduction to Using Color [23:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/B_ColorIntro.mp4)
+- [C. Grey Scale & Transparency [19:00]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/C_BWAndAlpha.mp4)
+- [D. Customizing Colors [22:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/D_CustomColors.mp4)
+- [E. Palette Tour [29:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/E_PaletteTour.mp4)
