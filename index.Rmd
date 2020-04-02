@@ -66,3 +66,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Grey Scale & Transparency [19:00]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/C_BWAndAlpha.mp4)
 - [D. Customizing Colors [22:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/D_CustomColors.mp4)
 - [E. Palette Tour [29:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/E_PaletteTour.mp4)
+
+## Lecture 26: Functional Programming (21 April 2020)
+- [A. Introduction and `apply` [36:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/A_IntroApply.mp4)
+- [B. `lapply` and `tapply` [32:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/B_LapplyTapply.mp4)
+- [C. `replicate` and `mapply` [33:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/C_ReplicateMapply.mp4)
