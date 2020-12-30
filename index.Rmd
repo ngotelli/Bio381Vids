@@ -1,16 +1,23 @@
 ---
 title: "Video Downloads for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 31 March 2020"
+date: "Last Updated: 28 December 2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-## Introduction
-- [Bio 381 Resleeved [3:07]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/Resleeved.MOV)
 
+## Lecture 1: Introduction (2 February 2021)
+- [A. Introduction I [19:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/A_Introduction.mp4)
+- [B. Introduction II [25:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/B_Introduction.mp4)
+- [C. Introduction III [19:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/C_Introduction.mp4)
+- [D. Introduction IV [16:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/D_Introduction.mp4)
+```
+##################################
+Videos and links below are still UNDER CONSTRUCTION
+```
 ## Lecture 17: Structured Programming II (19 March 2020)
 - [A. Code Snippets I [13:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/A_CodeSnippets.mp4)
 - [B. Code Snippets II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/B_CodeSnippets2.mp4)
