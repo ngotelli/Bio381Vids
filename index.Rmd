@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - [E. git Reset [17:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/E_gitReset.mp4)
 
 ## Lecture 4: Github III and Shell Commands  (11 February 2021)
-- [A. Amending Commits and Restoring Files [11:28]] (http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/A_AmendRestore.mp4)
+- [A. Amending Commits and Restoring Files [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/A_AmendRestore.mp4)
 - [B. Deleting Commits [7:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/B_DeleteCommits.mp4)
 - [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/C_Branching.mp4)
 - [D. Navigating the Shell [25:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/D_NavigateShell.mp4)
