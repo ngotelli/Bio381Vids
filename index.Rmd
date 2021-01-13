@@ -35,8 +35,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/C_Branching.mp4)
 - [D. Navigating the Shell [25:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/D_NavigateShell.mp4)
 - [E. File Operations [20:21]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_FileOperations.mp4)
-- [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_BashProvile.mp4)
-- [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_ShellScripting.mp4)
+- [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/F_BashProfile.mp4)
+- [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/G_ShellScripting.mp4)
 
 
 ```
