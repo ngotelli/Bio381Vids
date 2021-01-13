@@ -14,6 +14,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - [B. Introduction II [25:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/B_Introduction.mp4)
 - [C. Introduction III [19:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/C_Introduction.mp4)
 - [D. Introduction IV [16:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/D_Introduction.mp4)
+
+## Lecture 2: Introduction (2 February 2021)
+- [A. RStudio Set Up [21:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/A_RStudioSetUp.mp4)
+- [B. Project Set Up [5:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/B_ProjectSetUp.mp4)
+- [C. Git Concepts [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/C_GitConcepts.mp4)
+- [D. Github Repository Set Up [11:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/D_GitHubRepoSetUp.mp4)
+- [E. Linking the Github Repository to the Local Project [5:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/E_LinkingToLocalProject.mp4)
+
 ```
 ##################################
 Videos and links below are still UNDER CONSTRUCTION
