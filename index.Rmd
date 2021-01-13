@@ -15,12 +15,29 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Introduction III [19:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/C_Introduction.mp4)
 - [D. Introduction IV [16:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/D_Introduction.mp4)
 
-## Lecture 2: Introduction (2 February 2021)
-- [A. RStudio Set Up [21:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/A_RStudioSetUp.mp4)
-- [B. Project Set Up [5:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/B_ProjectSetUp.mp4)
-- [C. Git Concepts [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/C_GitConcepts.mp4)
-- [D. Github Repository Set Up [11:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/D_GitHubRepoSetUp.mp4)
-- [E. Linking the Github Repository to the Local Project [5:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/02Feb2021/E_LinkingToLocalProject.mp4)
+## Lecture 2: Github (4 February 2021)
+- [A. RStudio Set Up [21:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/04Feb2021/A_RStudioSetUp.mp4)
+- [B. Project Set Up [5:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/04Feb2021/B_ProjectSetUp.mp4)
+- [C. Git Concepts [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/04Feb2021/C_GitConcepts.mp4)
+- [D. Github Repository Set Up [11:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/04Feb2021/D_GitHubRepoSetUp.mp4)
+- [E. Linking the Github Repository to the Local Project [5:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/04Feb2021/E_LinkingToLocalProject.mp4)
+
+## Lecture 3: Github II (9 February 2021)
+- [A. Git Work Flow [23:52]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/A_GitWorkFlow.mp4)
+- [B. Creating a Web Page[13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/B_CreatingWebPage.mp4)
+- [C. Git Log [7:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/C_GitLogSandBox.mp4)
+- [D. Touch, Echo Commands [12:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/D_GitHubRepoSetUp.mp4)
+- [E. git Reset [17:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/09Feb2021/E_gitReset.mp4)
+
+## Lecture 4: Github III and Shell Commands  (11 February 2021)
+- [A. Amending Commits and Restoring Files [11:28]] (http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/A_AmendRestore.mp4)
+- [B. Deleting Commits [7:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/B_DeleteCommits.mp4)
+- [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/C_Branching.mp4)
+- [D. Navigating the Shell [25:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/D_NavigateShell.mp4)
+- [E. File Operations [20:21]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_FileOperations.mp4)
+- [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_BashProvile.mp4)
+- [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/11Feb2021/E_ShellScripting.mp4)
+
 
 ```
 ##################################
