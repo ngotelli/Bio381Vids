@@ -38,10 +38,35 @@ knitr::opts_chunk$set(echo = TRUE)
 - [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/F_BashProfile.mp4)
 - [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/G_ShellScripting.mp4)
 
+## Lecture 5: Regular Expressions (16 February 2021)
+- [A. Introduction to Regular Expressions [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/A_RegexIntro.mp4)
+- [B. Wild Cards[11:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/B_Wildcards.mp4)
+- [C. Captures [13:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/C_Captures.mp4)
+- [D. Character Sets [18:56]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/D_CharacterSets.mp4)
 
+## Lecture 6: Word Processing (Markdown, Typora, LaTeX) (18 February 2021)
+- [A. Language File Types [10:09]] (http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/A_LanguageFileTypes.mp4)
+- [B.Markdown I [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/B_Markdown1.mp4)
+- [C. Markdown II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/C_Markdown2.mp4)
+- [D. LaTeX Equations [17:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/D_LaTeXEquations.mp4)
+- [E. Code Chunks [12:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/E_CodeChunks.mp4)
+- [F. R Scripts [18:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/F_Rscripts.mp4)
+- [G. Typora [7:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/G_Typora.mp4)
+- [H. LaTeX [35:51]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/H_LaTeX.mp4)
+
+## Lecture 7: Atomic Vectors I (23 February 2021)
+- [A. Data Types [18:15]] (http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/A_DataTypes.mp4)
+- [B. Vector Properties I [22:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/B_VectorProperties.mp4)
+- [C. Vector Properties II [17:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/C_VectorProperties.mp4)
+- [D. Coercion, Vectorization, and Recycling [25:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/D_CoercionVectorizationRecycling.mp4)
+
+## Lecture 8: Atomic Vectors II (25 February 2021)
+- [A. Vector Creation [20:57]] (http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/A_AtomicVectorsII.mp4)
+- [B. Random Numbers and Samplimg [16:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/B_RandomNumbersSample.mp4)
+- [C. Logical & Relational Operators [30:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/C_LogicalRelationalOperators.mp4)
 ```
 ##################################
-Videos and links below are still UNDER CONSTRUCTION
+Videos and links below this line are still UNDER CONSTRUCTION
 ```
 ## Lecture 17: Structured Programming II (19 March 2020)
 - [A. Code Snippets I [13:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/A_CodeSnippets.mp4)
