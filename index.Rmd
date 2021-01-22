@@ -69,6 +69,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - [A. Matrices [29:49]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/A_Matrices.mp4)
 - [B. Lists [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/B_Lists.mp4)
 - [C. Data Frames [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/C_DataFrames.mp4)
+
+## Lecture 10: Data Curation (04 March 2021)
+- [A. Complete Cases [29:49]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/A_CompleteCases.mp4)
+- [B. Matrices, Vectors, & Data Frames [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/B_MatricesVdDframes.mp4)
+- [C. Subsetting [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/C_Subsetting.mp4)
+- [D. Data Curation [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/D_DataCuration.mp4)
+- [E. Input & Output [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/E_InputOutput.mp4)
+
+
+
+
 ```
 ##################################
 Videos and links below this line are still UNDER CONSTRUCTION
