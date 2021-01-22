@@ -78,12 +78,12 @@ knitr::opts_chunk$set(echo = TRUE)
 - [E. Input & Output [36:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/E_InputOutput.mp4)
 
 ## Lecture 11: Probability Distributions (11 March 2021)
-- [A. Introduction to Probability Distributions [29:49]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/A_IntroToProbabilityDist.mp4)
-- [B. The Poisson and R's Grammar of Distributions [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/B_PoissonGrammar.mp4)
-- [C. Binomial and Negative Binomial Distributions [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/C_BinomNegBinom.mp4)
-- [D. Continuous Distributions: Uniform, Normal, Gamma, and Beta [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/D_ContinuousDis.mp4)
-- [E. Maximum Likelihood Estimation [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/E_MaxLikeEst.mp4)
-- [F. Example: Frog Body Size [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/F_FrogSize.mp4)
+- [A. Introduction to Probability Distributions [11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/A_IntroToProbabilityDist.mp4)
+- [B. The Poisson and R's Grammar of Distributions [27:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/B_PoissonGrammar.mp4)
+- [C. Binomial and Negative Binomial Distributions [14:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/C_BinomNegBinom.mp4)
+- [D. Continuous Distributions: Uniform, Normal, Gamma, and Beta [25:15]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/D_ContinuousDis.mp4)
+- [E. Maximum Likelihood Estimation [10:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/E_MaxLikeEst.mp4)
+- [F. Example: Frog Body Size [18:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/F_FrogSize.mp4)
 
 
 
