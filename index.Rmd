@@ -1,7 +1,7 @@
 ---
-title: "Video Downloads for Bio 381"
+title: "Video Lectures for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 28 December 2021"
+date: "Last Updated: 22 January 2021"
 output: html_document
 ---
 
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Lecture 3: Github II (9 February 2021)
 - [A. Git Work Flow [23:52]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/A_GitWorkFlow.mp4)
-- [B. Creating a Web Page[13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/B_CreatingWebPage.mp4)
+- [B. Creating a Web Page [13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/B_CreatingWebPage.mp4)
 - [C. Git Log [7:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/C_GitLogSandBox.mp4)
 - [D. Touch, Echo Commands [12:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/D_TouchEchoCommands.mp4)
 - [E. git Reset [17:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/E_gitReset.mp4)
@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Lecture 5: Regular Expressions (16 February 2021)
 - [A. Introduction to Regular Expressions [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/A_RegexIntro.mp4)
-- [B. Wild Cards[11:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/B_Wildcards.mp4)
+- [B. Wild Cards [11:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/B_Wildcards.mp4)
 - [C. Captures [13:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/C_Captures.mp4)
 - [D. Character Sets [18:56]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/D_CharacterSets.mp4)
 
@@ -72,7 +72,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Lecture 10: Data Curation (09 March 2021)
 - [A. Complete Cases [13:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/A_CompleteCases.mp4)
-- [B. Matrices, Vectors, & Data Frames [29[11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/B_MatricesVdDframes.mp4)
+- [B. Matrices, Vectors, & Data Frames [11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/B_MatricesVdDframes.mp4)
 - [C. Subsetting [21:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/C_Subsetting.mp4)
 - [D. Data Curation [13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/D_DataCuration.mp4)
 - [E. Input & Output [36:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/E_InputOutput.mp4)
@@ -98,6 +98,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - [C. Exiting a Function & Scoping Rules [18:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/C_StopScoping.mp4)
 - [D. Setting Default Parameter Values [25:22]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/D_Defaults.mp4)
 
+## Lecture 14: Structured Programming I (21 March 2021)
+- [A. Pseudocode [13:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/A_PseudoCode.mp4)
+- [B. Calculate, Summarize, and Graph Functions [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/B_CalcSumGraph.mp4)
+- [C. Get Data Function [15:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/C_GetData.mp4)
+- [D. Assembling the Functions [17:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/D_Assembly.mp4)
 
 ```
 ##################################
