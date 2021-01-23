@@ -92,6 +92,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - [D. Logistic Regression [15:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
 - [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
 
+## Lecture 13: Functions (18 March 2021)
+- [A. Introduction to Functions in R  [25:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/A_FunctionIntro.mp4)
+- [B. Writing Your First Function [21:26]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/B_FirstFunction.mp4)
+- [C. Exiting a Function & Scoping Rules [18:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/C_StopScoping.mp4)
+- [D. Setting Default Parameter Values [25:22]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/D_Defaults.mp4)
 
 
 ```
