@@ -86,11 +86,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - [F. Example: Frog Body Size [18:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/F_FrogSize.mp4)
 
 ## Lecture 12: Statistical Analysis in R (11 March 2021)
-- [A. Introduction to Experimental Designs [11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/A_StatsIntro.mp4)
-- [B. Regression [27:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/B_Regression.mp4)
-- [C. Analysis of Variance [14:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/C_ANOVA.mp4)
-- [D. Logistic Regression [25:15]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
-- [E. Contigency Table Analysis [10:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
+- [A. Introduction to Experimental Designs [14:02]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/A_StatsIntro.mp4)
+- [B. Regression [23.36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/B_Regression.mp4)
+- [C. Analysis of Variance [25:44]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/C_ANOVA.mp4)
+- [D. Logistic Regression [15:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
+- [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
 
 
 
