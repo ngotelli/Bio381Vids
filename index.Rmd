@@ -1,83 +1,81 @@
 ---
 title: "Video Lectures for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 22 January 2021"
+date: "Last Updated: 27 January 2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Part I: Computational Tools
+These initial lectures introduce you to a diverse set of computational tools for word processing (Markdown, Typora, LaTeX), computing and writing scripts (RStudio, Plain-Text Editors), and editing and wrangling data files (Regular Expressions). Two of the most important skills we will cover are how to use git and Github for maintaining data files, scripts, and webpages, and how to use the bash shell to carry out git commands from the terminal.
 
-## Lecture 1: Introduction (2 February 2021)
-- [A. Introduction I [19:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/A_Introduction.mp4)
-- [B. Introduction II [25:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/B_Introduction.mp4)
-- [C. Introduction III [19:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/C_Introduction.mp4)
-- [D. Introduction IV [16:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/D_Introduction.mp4)
+### Lecture 1: Introduction (2 February 2021)
+- [A. Workflow, The Unholy Microsoft Trinity, and Repeatable Science [19:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/A_Introduction.mp4)
+- [B. Open-Source Tools, Plain-Text Files, and Beamer [25:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/B_Introduction.mp4)
+- [C. Pre-requisites, Course Structure, and Grading [19:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/C_Introduction.mp4)
+- [D. Overview of Course Content [16:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/L01_02Feb2021/D_Introduction.mp4)
 
-## Lecture 2: Github (4 February 2021)
+### Lecture 2: Github (4 February 2021)
 - [A. RStudio Set Up [21:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L02_04Feb2021/A_RStudioSetUp.mp4)
 - [B. Project Set Up [5:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/L02_04Feb2021/B_ProjectSetUp.mp4)
 - [C. Git Concepts [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L02_04Feb2021/C_GitConcepts.mp4)
 - [D. Github Repository Set Up [11:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/L02_04Feb2021/D_GitHubRepoSetUp.mp4)
 - [E. Linking the Github Repository to the Local Project [5:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/L02_04Feb2021/E_LinkingToLocalProject.mp4)
 
-## Lecture 3: Github II (9 February 2021)
+### Lecture 3: Github II (9 February 2021)
 - [A. Git Work Flow [23:52]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/A_GitWorkFlow.mp4)
 - [B. Creating a Web Page [13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/B_CreatingWebPage.mp4)
 - [C. Git Log [7:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/C_GitLogSandBox.mp4)
 - [D. Touch, Echo Commands [12:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/D_TouchEchoCommands.mp4)
 - [E. git Reset [17:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/E_gitReset.mp4)
 
-## Lecture 4: Github III and Shell Commands  (11 February 2021)
-- [A. Amending Commits and Restoring Files [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/A_AmendRestore.mp4)
-- [B. Deleting Commits [7:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/B_DeleteCommits.mp4)
-- [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/C_Branching.mp4)
-- [D. Navigating the Shell [25:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/D_NavigateShell.mp4)
-- [E. File Operations [20:21]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/E_FileOperations.mp4)
-- [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/F_BashProfile.mp4)
-- [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/G_ShellScripting.mp4)
-
-## Lecture 5: Regular Expressions (16 February 2021)
+### Lecture 4: Regular Expressions (11 February 2021)
 - [A. Introduction to Regular Expressions [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/A_RegexIntro.mp4)
 - [B. Wild Cards [11:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/B_Wildcards.mp4)
 - [C. Captures [13:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/C_Captures.mp4)
 - [D. Character Sets [18:56]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/D_CharacterSets.mp4)
 
-## Lecture 6: Word Processing (Markdown, Typora, LaTeX) (18 February 2021)
+### Lecture 5: Markdown (16 February 2021)
 - [A. Language File Types [10:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/A_LanguageFileTypes.mp4)
 - [B.Markdown I [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/B_Markdown1.mp4)
 - [C. Markdown II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/C_Markdown2.mp4)
 - [D. LaTeX Equations [17:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/D_LaTeXEquations.mp4)
 - [E. Code Chunks [12:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/E_CodeChunks.mp4)
 - [F. R Scripts [18:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/F_Rscripts.mp4)
-- [G. Typora [7:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/G_Typora.mp4)
-- [H. LaTeX [35:51]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/H_LaTeX.mp4)
 
-## Lecture 7: Atomic Vectors I (23 February 2021)
+### Lecture #6: Typora & LaTeX (18 February 2021)
+- [A. Typora [7:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/G_Typora.mp4)
+- [B. LaTeX [35:51]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/H_LaTeX.mp4)
+
+## Part II: Programming Foundations
+These lectures cover basic programming in R, including core concepts about atomic vectors, data types, logical and relational operators, and data inputs and outputs. We also discuss best practices for creating meta-data and curating data sets for long-term storage. A bestiary of probability distributions is introduced, and we use maximum likelihood methods to estimate parameters from data. We also cover data structures, coding, and graphics for 4 basic experimental designs (regression, ANOVA, logistic regression, and contingency table analysis).
+
+### Lecture 7: Atomic Vectors I (23 February 2021)
 - [A. Data Types [18:15]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/A_DataTypes.mp4)
 - [B. Vector Properties I [22:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/B_VectorProperties.mp4)
 - [C. Vector Properties II [17:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/C_VectorProperties.mp4)
 - [D. Coercion, Vectorization, and Recycling [25:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/D_CoercionVectorizationRecycling.mp4)
 
-## Lecture 8: Atomic Vectors II (25 February 2021)
+### Lecture 8: Atomic Vectors II (25 February 2021)
 - [A. Vector Creation [20:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/A_AtomicVectorsII.mp4)
 - [B. Random Numbers and Samplimg [16:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/B_RandomNumbersSample.mp4)
 - [C. Logical & Relational Operators [30:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/C_LogicalRelationalOperators.mp4)
 
-## Lecture 9: Matrices, Lists, and Data Frames (09 March 2021)
+### Lecture 9: Matrices, Lists, Data Frames (04 March 2021)
 - [A. Matrices [29:49]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/A_Matrices.mp4)
 - [B. Lists [29:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/B_Lists.mp4)
 - [C. Data Frames [17:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L09_04Mar2021/C_DataFrames.mp4)
 
-## Lecture 10: Data Curation (09 March 2021)
+### Lecture 10: Data Curation (09 March 2021)
 - [A. Complete Cases [13:47]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/A_CompleteCases.mp4)
 - [B. Matrices, Vectors, & Data Frames [11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/B_MatricesVdDframes.mp4)
 - [C. Subsetting [21:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/C_Subsetting.mp4)
 - [D. Data Curation [13:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/D_DataCuration.mp4)
 - [E. Input & Output [36:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/L10_09Mar2021/E_InputOutput.mp4)
 
-## Lecture 11: Probability Distributions (11 March 2021)
+### Lecture 11: Probability Distributions (11 March 2021)
 - [A. Introduction to Probability Distributions [11:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/A_IntroToProbabilityDist.mp4)
 - [B. The Poisson and R's Grammar of Distributions [27:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/B_PoissonGrammar.mp4)
 - [C. Binomial and Negative Binomial Distributions [14:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/C_BinomNegBinom.mp4)
@@ -85,71 +83,73 @@ knitr::opts_chunk$set(echo = TRUE)
 - [E. Maximum Likelihood Estimation [10:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/E_MaxLikeEst.mp4)
 - [F. Example: Frog Body Size [18:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/L11_11Mar2021/F_FrogSize.mp4)
 
-## Lecture 12: Statistical Analysis in R (11 March 2021)
+### Lecture 12: Experimental Designs (16 March 2021)
 - [A. Introduction to Experimental Designs [14:02]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/A_StatsIntro.mp4)
 - [B. Regression [23.36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/B_Regression.mp4)
 - [C. Analysis of Variance [25:44]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/C_ANOVA.mp4)
 - [D. Logistic Regression [15:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
 - [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
 
-## Lecture 13: Functions (18 March 2021)
+## Part III: Programming Methods
+In this section, you will make the transition from being an "R user" to being an "R programmer". We introduce user-defined functions as building blocks for functional programming, and the use of pseudocode and sourcing to break your program into logical, independent units. We then learn how to use control structure, such as if-else statement and the workhorse for loops for carrying out repeated operations. We apply these tools sweep parameters in a model, conduct randomization test, and automate the batch processing of a large number of data files.
+
+### Lecture 13: Functions (18 March 2021)
 - [A. Introduction to Functions in R  [25:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/A_FunctionIntro.mp4)
 - [B. Writing Your First Function [21:26]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/B_FirstFunction.mp4)
 - [C. Exiting a Function & Scoping Rules [18:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/C_StopScoping.mp4)
 - [D. Setting Default Parameter Values [25:22]](http://www.uvm.edu/~ngotelli/Bio381Vids/L13_18Mar2021/D_Defaults.mp4)
 
-## Lecture 14: Structured Programming I (21 March 2021)
+### Lecture 14: Structured Programming I (23 March 2021)
 - [A. Pseudocode [13:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/A_PseudoCode.mp4)
 - [B. Calculate, Summarize, and Graph Functions [24:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/B_CalcSumGraph.mp4)
 - [C. Get Data Function [15:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/C_GetData.mp4)
 - [D. Assembling the Functions [17:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/L14_23Mar2021/D_Assembly.mp4)
 
-```
-##################################
-Videos and links below this line are still UNDER CONSTRUCTION
-```
-## Lecture 17: Structured Programming II (19 March 2020)
+### Lecture 15: Structured Programming II (25 March 2021)
 - [A. Code Snippets I [13:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/A_CodeSnippets.mp4)
 - [B. Code Snippets II [18:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/B_CodeSnippets2.mp4)
 - [C. Sourcing Files [17:05]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/C_SourcingFiles.mp4)
 - [D. Coding Functions [29:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/D_CodingFunctions.mp4)
 - [E. Assemble Program [18:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/E_AssembleProgram.mp4)
 
-## Lecture 18: Control Structures I (24 March 2020)
+## Lecture 16: Control Structures I (30 March 2021)
 
 - [A. Logical Operators [22:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/A.LogicalOperators.mp4)
 - [B. Set Operations [14:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/B.SetOperations.mp4)
 - [C. If Statements [19:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/C.IfStatements.mp4)
 - [D. ifelse Function [14:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/D.IfElseFunction.mp4)
 
-## Lecture 19: Control Structures II (26 March 2020)
+## Lecture 17: Control Structures II (1 April 2021)
 - [A. Anatomy Of A For Loop [23:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/A_AnatomyOfForLoop.mp4)
 - [B. For Loop Tips [25:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/B_ForLoopTips.mp4)
 - [C. Random Walk I [18:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/C_RandomWalk.mp4)
 
-## Lecture 20: Control Structures III (31 March 2020)
+## Lecture 18: Control Structures III (6 April 2021)
 - [A. Random Walk II [19:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/A_RandomWalk2.mp4)
 - [B. Parameter Sweeping I  [25:23]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/B_ParamSweep1.mp4)
 - [C. Parameter Sweeping II  [32:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/C_ParamSweep2.mp4)
 
-## Lecture 21: Randomization Tests (2 April 2020)
+## Lecture 19: Randomization Tests (8 April 2021)
 - [A. Introduction To Randomization Tests [17:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/A_IntroRandomizationTest.mp4)
 - [B. Toy Example [21:08]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/B_ToyExample.mp4)
 - [C. Functions For Randomization Test [37:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/C_FunctionsForRandomization.mp4)
 - [D. Run Analysis [9:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/D_RunAnalysis.mp4)
 
-## Lecture 22: Batch Processing (7 April 2020)
+## Lecture 20: Batch Processing (13 April 2021)
 - [A. Batch Processing And Path Names [11:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/A_IntroAndPathNames.mp4)
 - [B. Create Random Files [26:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/B_CreateRandomFiles.mp4)
 - [C. Create Regression Function [22:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/C_CreateRegressionFunction.mp4)
 - [D. Modify Batch Files [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/D_ModifyBatchFiles.mp4)
 
-## Lecture 23: ggplot I (9 April 2020)
+Part IV: Advanced Topics
+This section includes 3 lectures on using ggplot for exploratory and publication grapbics. Rather than focus on specialized geoms or graph types, we emphasize the grammar and syntax of ggplot, as well as common modifications of fonts, colors, symbols, and lines. One lecture on functional programming introduces the apply and map functions as efficient alternatives to using for loops. The final lecture covers advanced shell commands and methods in github for branching and amending commits, and for navigating the shell and writing custom shell scripts in bash.
+
+### Lecture 21: ggplot I (20 April 2021)
 - [A. Introduction To `ggplot` [20:35]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/A_IntroductionToggplot.mp4)
 - [B. Using `qplot` [23:53]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/B_qplot.mp4)
 - [C. Themes And Plots [22:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/C_ThemesAndPlots.mp4)
 
-## Lecture 24: ggplot II (14 April 2020)
+## Lecture 22: ggplot II (22 April 2021)
 - [A. Set Up Multiple Plots [14:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/A_Intro.mp4)
 - [B. Multi-Panel Plots With `patchwork` [15:29]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/B_MultipanelPlots.mp4)
 - [C. Axis Orientation [6:25]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/C_AxisOrientation.mp4)
@@ -157,14 +157,23 @@ Videos and links below this line are still UNDER CONSTRUCTION
 - [E. Faceting [27:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/E_Faceting.mp4)
 - [F. Mapping Aesthetics II [12:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/F_MappingAsthetics2.mp4)
 
-## Lecture 25: ggplot III (16 April 2020)
+## Lecture 23: ggplot III (16 April 2020)
 - [A. Bar Plots [30:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/A_BarPlots.mp4)
 - [B. Introduction to Using Color [23:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/B_ColorIntro.mp4)
 - [C. Grey Scale & Transparency [19:00]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/C_BWAndAlpha.mp4)
 - [D. Customizing Colors [22:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/D_CustomColors.mp4)
 - [E. Palette Tour [29:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/E_PaletteTour.mp4)
 
-## Lecture 26: Functional Programming (21 April 2020)
+## Lecture 24: Functional Programming (29 April 2021)
 - [A. Introduction and `apply` [36:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/A_IntroApply.mp4)
 - [B. `lapply` and `tapply` [32:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/B_LapplyTapply.mp4)
 - [C. `replicate` and `mapply` [33:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/C_ReplicateMapply.mp4)
+
+## Lecture 25: Github III and Shell Commands  (4 May 2021)
+- [A. Amending Commits and Restoring Files [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/A_AmendRestore.mp4)
+- [B. Deleting Commits [7:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/B_DeleteCommits.mp4)
+- [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/C_Branching.mp4)
+- [D. Navigating the Shell [25:11]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/D_NavigateShell.mp4)
+- [E. File Operations [20:21]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/E_FileOperations.mp4)
+- [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/F_BashProfile.mp4)
+- [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/G_ShellScripting.mp4)
