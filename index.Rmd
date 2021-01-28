@@ -1,13 +1,20 @@
 ---
 title: "Video Lectures for Bio 381"
 author: "Nick Gotelli"
-date: "Last Updated: 27 January 2021"
+date: "Last Updated: 28 January 2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+___
+
+[Back to Course HomePage](https://gotellilab.github.io/Bio381/)  
+
+___   
+
 ## Part I: Computational Tools
 These initial lectures introduce you to a diverse set of computational tools for word processing (Markdown, Typora, LaTeX), computing and writing scripts (RStudio, Plain-Text Editors), and editing and wrangling data files (Regular Expressions). Two of the most important skills we will cover are how to use git and Github for maintaining data files, scripts, and webpages, and how to use the bash shell to carry out git commands from the terminal.
 
@@ -45,7 +52,7 @@ These initial lectures introduce you to a diverse set of computational tools for
 - [E. Code Chunks [12:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/E_CodeChunks.mp4)
 - [F. R Scripts [18:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/F_Rscripts.mp4)
 
-### Lecture #6: Typora & LaTeX (18 February 2021)
+### Lecture 6: Typora & LaTeX (18 February 2021)
 - [A. Typora [7:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/G_Typora.mp4)
 - [B. LaTeX [35:51]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/H_LaTeX.mp4)
 
@@ -129,19 +136,19 @@ In this section, you will make the transition from being an "R user" to being an
 - [B. Parameter Sweeping I  [25:23]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/B_ParamSweep1.mp4)
 - [C. Parameter Sweeping II  [32:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/C_ParamSweep2.mp4)
 
-## Lecture 19: Randomization Tests (8 April 2021)
+### Lecture 19: Randomization Tests (8 April 2021)
 - [A. Introduction To Randomization Tests [17:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/A_IntroRandomizationTest.mp4)
 - [B. Toy Example [21:08]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/B_ToyExample.mp4)
 - [C. Functions For Randomization Test [37:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/C_FunctionsForRandomization.mp4)
 - [D. Run Analysis [9:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/02April2020/D_RunAnalysis.mp4)
 
-## Lecture 20: Batch Processing (13 April 2021)
+### Lecture 20: Batch Processing (13 April 2021)
 - [A. Batch Processing And Path Names [11:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/A_IntroAndPathNames.mp4)
 - [B. Create Random Files [26:14]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/B_CreateRandomFiles.mp4)
 - [C. Create Regression Function [22:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/C_CreateRegressionFunction.mp4)
 - [D. Modify Batch Files [19:20]](http://www.uvm.edu/~ngotelli/Bio381Vids/07April2020/D_ModifyBatchFiles.mp4)
 
-Part IV: Advanced Topics
+## Part IV: Advanced Topics
 This section includes 3 lectures on using ggplot for exploratory and publication grapbics. Rather than focus on specialized geoms or graph types, we emphasize the grammar and syntax of ggplot, as well as common modifications of fonts, colors, symbols, and lines. One lecture on functional programming introduces the apply and map functions as efficient alternatives to using for loops. The final lecture covers advanced shell commands and methods in github for branching and amending commits, and for navigating the shell and writing custom shell scripts in bash.
 
 ### Lecture 21: ggplot I (20 April 2021)
@@ -149,7 +156,7 @@ This section includes 3 lectures on using ggplot for exploratory and publication
 - [B. Using `qplot` [23:53]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/B_qplot.mp4)
 - [C. Themes And Plots [22:46]](http://www.uvm.edu/~ngotelli/Bio381Vids/09April2020/C_ThemesAndPlots.mp4)
 
-## Lecture 22: ggplot II (22 April 2021)
+### Lecture 22: ggplot II (22 April 2021)
 - [A. Set Up Multiple Plots [14:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/A_Intro.mp4)
 - [B. Multi-Panel Plots With `patchwork` [15:29]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/B_MultipanelPlots.mp4)
 - [C. Axis Orientation [6:25]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/C_AxisOrientation.mp4)
@@ -157,19 +164,19 @@ This section includes 3 lectures on using ggplot for exploratory and publication
 - [E. Faceting [27:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/E_Faceting.mp4)
 - [F. Mapping Aesthetics II [12:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/14April2020/F_MappingAsthetics2.mp4)
 
-## Lecture 23: ggplot III (16 April 2020)
+### Lecture 23: ggplot III (16 April 2020)
 - [A. Bar Plots [30:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/A_BarPlots.mp4)
 - [B. Introduction to Using Color [23:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/B_ColorIntro.mp4)
 - [C. Grey Scale & Transparency [19:00]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/C_BWAndAlpha.mp4)
 - [D. Customizing Colors [22:41]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/D_CustomColors.mp4)
 - [E. Palette Tour [29:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/16April2020/E_PaletteTour.mp4)
 
-## Lecture 24: Functional Programming (29 April 2021)
+### Lecture 24: Functional Programming (29 April 2021)
 - [A. Introduction and `apply` [36:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/A_IntroApply.mp4)
 - [B. `lapply` and `tapply` [32:01]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/B_LapplyTapply.mp4)
 - [C. `replicate` and `mapply` [33:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/21April2020/C_ReplicateMapply.mp4)
 
-## Lecture 25: Github III and Shell Commands  (4 May 2021)
+### Lecture 25: Github III and Shell Commands  (4 May 2021)
 - [A. Amending Commits and Restoring Files [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/A_AmendRestore.mp4)
 - [B. Deleting Commits [7:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/B_DeleteCommits.mp4)
 - [C. Branching [12:48]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/C_Branching.mp4)
@@ -177,3 +184,9 @@ This section includes 3 lectures on using ggplot for exploratory and publication
 - [E. File Operations [20:21]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/E_FileOperations.mp4)
 - [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/F_BashProfile.mp4)
 - [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/G_ShellScripting.mp4)
+
+___
+
+[Back to Course HomePage](https://gotellilab.github.io/Bio381/)  
+
+___   
