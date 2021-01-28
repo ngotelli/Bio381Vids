@@ -88,7 +88,7 @@ These lectures cover basic programming in R, including core concepts about atomi
 - [B. Regression [23.36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/B_Regression.mp4)
 - [C. Analysis of Variance [25:44]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/C_ANOVA.mp4)
 - [D. Logistic Regression [15:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
-- [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
+- [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Cotntingency.mp4)
 
 ## Part III: Programming Methods
 In this section, you will make the transition from being an "R user" to being an "R programmer". We introduce user-defined functions as building blocks for functional programming, and the use of pseudocode and sourcing to break your program into logical, independent units. We then learn how to use control structure, such as if-else statement and the workhorse for loops for carrying out repeated operations. We apply these tools sweep parameters in a model, conduct randomization test, and automate the batch processing of a large number of data files.
@@ -112,19 +112,19 @@ In this section, you will make the transition from being an "R user" to being an
 - [D. Coding Functions [29:40]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/D_CodingFunctions.mp4)
 - [E. Assemble Program [18:55]](http://www.uvm.edu/~ngotelli/Bio381Vids/19March2020/E_AssembleProgram.mp4)
 
-## Lecture 16: Control Structures I (30 March 2021)
+### Lecture 16: Control Structures I (30 March 2021)
 
 - [A. Logical Operators [22:19]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/A.LogicalOperators.mp4)
 - [B. Set Operations [14:12]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/B.SetOperations.mp4)
 - [C. If Statements [19:27]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/C.IfStatements.mp4)
 - [D. ifelse Function [14:37]](http://www.uvm.edu/~ngotelli/Bio381Vids/24March2020/D.IfElseFunction.mp4)
 
-## Lecture 17: Control Structures II (1 April 2021)
+### Lecture 17: Control Structures II (1 April 2021)
 - [A. Anatomy Of A For Loop [23:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/A_AnatomyOfForLoop.mp4)
 - [B. For Loop Tips [25:16]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/B_ForLoopTips.mp4)
 - [C. Random Walk I [18:03]](http://www.uvm.edu/~ngotelli/Bio381Vids/26March2020/C_RandomWalk.mp4)
 
-## Lecture 18: Control Structures III (6 April 2021)
+### Lecture 18: Control Structures III (6 April 2021)
 - [A. Random Walk II [19:04]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/A_RandomWalk2.mp4)
 - [B. Parameter Sweeping I  [25:23]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/B_ParamSweep1.mp4)
 - [C. Parameter Sweeping II  [32:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/31March2020/C_ParamSweep2.mp4)
