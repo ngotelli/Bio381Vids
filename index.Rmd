@@ -38,6 +38,13 @@ These initial lectures introduce you to a diverse set of computational tools for
 - [D. Touch, Echo Commands [12:36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/D_TouchEchoCommands.mp4)
 - [E. git Reset [17:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L03_09Feb2021/E_gitReset.mp4)
 
+___ 
+
+### Lab Meeting 2 (10 February 2021)
+- [Lab 2 Video [1:15:56]](http://www.uvm.edu/~ngotelli/Bio381Vids/H02_10Feb2021/Lab2_2021-Feb-10.mov)
+
+___ 
+
 ### Lecture 4: Regular Expressions (11 February 2021)
 - [A. Introduction to Regular Expressions [11:28]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/A_RegexIntro.mp4)
 - [B. Wild Cards [11:32]](http://www.uvm.edu/~ngotelli/Bio381Vids/L05_16Feb2021/B_Wildcards.mp4)
