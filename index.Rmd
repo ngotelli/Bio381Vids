@@ -102,7 +102,7 @@ These lectures cover basic programming in R, including core concepts about atomi
 - [B. Regression [23.36]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/B_Regression.mp4)
 - [C. Analysis of Variance [25:44]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/C_ANOVA.mp4)
 - [D. Logistic Regression [15:38]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/D_Logistic.mp4)
-- [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Cotntingency.mp4)
+- [E. Contigency Table Analysis [22:42]](http://www.uvm.edu/~ngotelli/Bio381Vids/L12_16Mar2021/E_Contingency.mp4)
 
 ## Part III: Programming Methods
 In this section, you will make the transition from being an "R user" to being an "R programmer". We introduce user-defined functions as building blocks for functional programming, and the use of pseudocode and sourcing to break your program into logical, independent units. We then learn how to use control structure, such as if-else statement and the workhorse for loops for carrying out repeated operations. We apply these tools sweep parameters in a model, conduct randomization test, and automate the batch processing of a large number of data files.
