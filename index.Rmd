@@ -59,6 +59,13 @@ ___
 - [E. Code Chunks [12:18]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/E_CodeChunks.mp4)
 - [F. R Scripts [18:09]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/F_Rscripts.mp4)
 
+___ 
+
+### Lab Meeting 3 (17 February 2021)
+- [Lab 3 Video [35:39]](http://www.uvm.edu/~ngotelli/Bio381Vids/H03_17Feb2021/Lab3_2021-Feb-17-Pt1.mp4)
+
+___ 
+
 ### Lecture 6: Typora & LaTeX (18 February 2021)
 - [A. Typora [7:50]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/G_Typora.mp4)
 - [B. LaTeX [35:51]](http://www.uvm.edu/~ngotelli/Bio381Vids/L06_18Feb2021/H_LaTeX.mp4)
@@ -72,6 +79,12 @@ These lectures cover basic programming in R, including core concepts about atomi
 - [C. Vector Properties II [17:58]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/C_VectorProperties.mp4)
 - [D. Coercion, Vectorization, and Recycling [25:24]](http://www.uvm.edu/~ngotelli/Bio381Vids/L07_23Feb2021/D_CoercionVectorizationRecycling.mp4)
 
+___ 
+
+### Lab Meeting 4 (24 February 2021)
+- [Lab 4 Video [13:26]](http://www.uvm.edu/~ngotelli/Bio381Vids/H04_24Feb2021/Lab4_2021-Feb-24-Pt1.mov)
+
+___ 
 ### Lecture 8: Atomic Vectors II (25 February 2021)
 - [A. Vector Creation [20:57]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/A_AtomicVectorsII.mp4)
 - [B. Random Numbers and Samplimg [16:45]](http://www.uvm.edu/~ngotelli/Bio381Vids/L08_25Feb2021/B_RandomNumbersSample.mp4)
