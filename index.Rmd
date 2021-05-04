@@ -205,6 +205,10 @@ This section includes 3 lectures on using ggplot for exploratory and publication
 - [F. Editing the .bash_profile [10:34]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/F_BashProfile.mp4)
 - [G. Shell Scripting [13:43]](http://www.uvm.edu/~ngotelli/Bio381Vids/L04_11Feb2021/G_ShellScripting.mp4)
 
+### Lab Meeting  (28 May 2021)
+- [dplyr lecture by Lauren Ash [41:13]](http://www.uvm.edu/~ngotelli/Bio381Vids/dplyr_28Apr2021/dplyr_lecture.mov)
+
+
 ___
 
 [Back to Course HomePage](https://gotellilab.github.io/Bio381/)  
